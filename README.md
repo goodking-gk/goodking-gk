@@ -1,7 +1,7 @@
 ###使用说明
+git相关指令
 ```c
-git checkout -b your_branch_xxx
 git add -A
-git commit -m "xxxx"
+git commit -m "JIRA_ID: xxxx"
 git push origin your_branch_xxx
 ```
